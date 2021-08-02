@@ -2,6 +2,10 @@
 challenge
 
 
+1. download .zip file with entire project
+2. uncompress and open project with visual studio
+3. Debug it
+
 Instructions to test the app while debugging
 
 Add the products to cart:
